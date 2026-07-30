@@ -31,3 +31,7 @@ The project uses a CSV file (`news.csv`) containing:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 python fake_news_detection.py
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
